@@ -1,0 +1,13 @@
+.dropdown-suggest {
+  max-width: 600px;
+  min-width: unset !important;
+}
+/* headerTemplate.scss */
+.scroll-to-top {
+  transition: all 0.5s;
+  background: linear-gradient(to right, #7462f9 35%, #df3ef8 100%);
+  svg {
+    display: inline-block;
+    fill: white;
+  }
+}
